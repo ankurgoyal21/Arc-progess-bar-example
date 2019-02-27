@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">My leave balance</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="action_settings">Settings</string>
+  <string name="leaves_available">Leaves Available\nout of 40 annual leaves</string>
+  <string name="approved_leaves">Approved leaves</string>
+  <string name="pending_leaves">Pending for Approval</string>
+  <string name="denied_leaves">Denied leaves</string>
+</resources>
